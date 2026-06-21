@@ -1,0 +1,1 @@
+//write a program in c to find the maximum number betttween two numbwrs using a pointer

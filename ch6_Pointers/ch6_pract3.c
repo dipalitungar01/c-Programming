@@ -1,0 +1,1 @@
+//write a program in c to print all the letters in english alphabet using a pointer

@@ -1,0 +1,1 @@
+//write a program in c to print the elements of an array in reverse order
