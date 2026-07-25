@@ -1,3 +1,0 @@
- student name : dipali
-student age : 23
-student cgpa : 9.400000
